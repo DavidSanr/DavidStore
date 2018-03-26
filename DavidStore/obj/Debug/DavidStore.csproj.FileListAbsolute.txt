@@ -72,8 +72,5 @@ C:\DavidStore\DavidStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\DavidStore\DavidStore\obj\Debug\DavidStore.csproj.CoreCompileInputs.cache
 C:\DavidStore\DavidStore\obj\Debug\DavidStore.dll
 C:\DavidStore\DavidStore\obj\Debug\DavidStore.pdb
-C:\DavidStore\DavidStore\obj\Debug\BabyStore.Migrations.InitialCreate.resources
-C:\DavidStore\DavidStore\obj\Debug\BabyStore.Migrations.update_user_fields.resources
-C:\DavidStore\DavidStore\obj\Debug\BabyStore.Migrations.StoreConfiguration.twocontextreset.resources
-C:\DavidStore\DavidStore\obj\Debug\BabyStore.Migrations.StoreConfiguration.AddBasketLine.resources
 C:\DavidStore\DavidStore\obj\Debug\DavidStore.csproj.GenerateResource.Cache
+C:\DavidStore\DavidStore\obj\Debug\BabyStore.Migrations.StoreConfiguration.change.resources

@@ -193,21 +193,9 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201604221324063_InitialCreate.cs" />
-    <Compile Include="Migrations\201604221324063_InitialCreate.Designer.cs">
-      <DependentUpon>201604221324063_InitialCreate.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201604221549045_update_user_fields.cs" />
-    <Compile Include="Migrations\201604221549045_update_user_fields.Designer.cs">
-      <DependentUpon>201604221549045_update_user_fields.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201605100921238_twocontextreset.cs" />
-    <Compile Include="Migrations\201605100921238_twocontextreset.Designer.cs">
-      <DependentUpon>201605100921238_twocontextreset.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201605100927228_AddBasketLine.cs" />
-    <Compile Include="Migrations\201605100927228_AddBasketLine.Designer.cs">
-      <DependentUpon>201605100927228_AddBasketLine.cs</DependentUpon>
+    <Compile Include="Migrations\201803262103279_change.cs" />
+    <Compile Include="Migrations\201803262103279_change.Designer.cs">
+      <DependentUpon>201803262103279_change.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Migrations\StoreConfiguration.cs" />
@@ -355,17 +343,8 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201604221324063_InitialCreate.resx">
-      <DependentUpon>201604221324063_InitialCreate.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201604221549045_update_user_fields.resx">
-      <DependentUpon>201604221549045_update_user_fields.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201605100921238_twocontextreset.resx">
-      <DependentUpon>201605100921238_twocontextreset.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201605100927228_AddBasketLine.resx">
-      <DependentUpon>201605100927228_AddBasketLine.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201803262103279_change.resx">
+      <DependentUpon>201803262103279_change.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

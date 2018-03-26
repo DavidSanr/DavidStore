@@ -21,7 +21,7 @@
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li>@Html.ActionLink("Categorias", "Index", "Categories",new { @class="nav-link active"})</li>
+                    <li>@Html.ActionLink("Categorias", "Index", "Categories") </li>
                     <li>@Html.RouteLink("Lista de productos", "ProductsIndex")</li>
                     @if (Request.IsAuthenticated && User.IsInRole("Admin"))
                     {
